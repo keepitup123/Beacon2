@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beacon2</string>
+    <string name="txpower">TxPower:</string>
+    <string name="distance">Distance:</string>
+    <string name="rssi">RSSI:</string>
+    <string name="minor">Minor:</string>
+    <string name="major">Major:</string>
+    <string name="uuid">UUID:</string>
+</resources>
